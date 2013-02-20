@@ -44,6 +44,7 @@ languages = {
     'es':_('Spanish'),
     'fr':_('French'),
     'it':_('Italian'),
+    'ja':_('Japanese'),
     'lv':_('Latvian'),
     'nl':_('Dutch'),
     'ru':_('Russian'),
